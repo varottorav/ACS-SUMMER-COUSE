@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Summer Course</title>
+</head>
+<body>
+    <h1>Welcome to ACS Summer Course</h1>
+    <p>This is the homepage for the course.</p>
+</body>
+</html>
